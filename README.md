@@ -19,11 +19,11 @@ First, you'll need to collect the code and its dependencies.
 #### Getting the code
 
 ```bash
-$ git clone --recurse-submodules git@github.com:nick-thompson/blueprint.git
+$ git clone --recurse-submodules https://github.com/nick-thompson/blueprint.git
 ```
 or
 ```bash
-$ git clone git@github.com:nick-thompson/blueprint.git
+$ git clone https://github.com/nick-thompson/blueprint.git
 $ cd blueprint
 $ git submodule update --init --recursive
 ```
